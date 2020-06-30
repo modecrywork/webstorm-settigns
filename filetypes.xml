@@ -4,6 +4,7 @@
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern=".dockerignore " type="IgnoreLang file" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
