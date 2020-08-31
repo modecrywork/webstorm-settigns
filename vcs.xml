@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="modecry" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.qsoft.ru" />
+          <option name="userName" value="alexandr.kudryashov" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
