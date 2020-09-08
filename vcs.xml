@@ -14,6 +14,10 @@
           <option name="url" value="http://gitlab.qsoft.ru" />
           <option name="userName" value="alexandr.kudryashov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.medlinesoft.ru:8443" />
+          <option name="userName" value="AKudryashov" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
