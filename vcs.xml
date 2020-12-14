@@ -18,6 +18,10 @@
           <option name="url" value="http://bitbucket.medlinesoft.ru:8443" />
           <option name="userName" value="AKudryashov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="modecry" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
