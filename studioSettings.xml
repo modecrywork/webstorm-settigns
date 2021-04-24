@@ -1,0 +1,10 @@
+<application>
+  <component name="StudioSettings">
+    <option name="generalSettings">
+      <GeneralSettings>
+        <option name="enableInternalFeatures" value="false" />
+        <option name="macAddress" value="AC-DE-48-00-11-22" />
+      </GeneralSettings>
+    </option>
+  </component>
+</application>
