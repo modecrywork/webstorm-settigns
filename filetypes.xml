@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="DocumentDetailPageContent.ts" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern=".dockerignore " type="IgnoreLang file" />
       <mapping ext="js " type="JavaScript" />
