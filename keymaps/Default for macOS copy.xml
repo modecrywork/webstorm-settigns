@@ -17,7 +17,6 @@
   <action id="NewScratchFile" />
   <action id="QuickChangeScheme" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="ReformatWithPrettierAction">
@@ -27,6 +26,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
+  <action id="ShowReformatFileDialog" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="meta k" />
