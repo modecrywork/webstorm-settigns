@@ -4,15 +4,15 @@
       <mapping pattern="DocumentDetailPageContent.ts" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern=".dockerignore " type="IgnoreLang file" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="js " type="JavaScript" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="UsersMessages" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="UsersMessages" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
