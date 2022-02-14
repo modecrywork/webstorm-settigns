@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="modecry" id="87cdd115-3f7e-45f3-be05-6528731145f8">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
