@@ -5,6 +5,7 @@
       <mapping pattern=".gitkeep" type="GitIgnore file" />
       <mapping pattern=".dockerignore " type="IgnoreLang file" />
       <mapping ext="js " type="JavaScript" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="UsersMessages" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
